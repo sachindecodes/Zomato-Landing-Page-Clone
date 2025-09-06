@@ -24,7 +24,8 @@ The main goal of this project was to practice:
 ---
 
 ## 🔗 Live Demo  
-👉 [View Live Project](http://sachindecodes.github.io/zomato-clone/)
+👉 [View Live Project](http://sachindecodes.github.io/zomato-clone/](https://htmlpreview.github.io/?https://github.com/sachindecodes/zomato-landing-page-clone/blob/main/index.html)
+)
 
 ---
 
